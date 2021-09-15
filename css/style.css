@@ -1,0 +1,25 @@
+.centered {
+    text-align: center;
+}
+
+html {
+    font-size: 10px;
+    font-family: placeholder;
+}
+
+.big-letter {
+    font-size: 37px;
+    padding-top: 55px;
+    padding-bottom: 15px;
+}
+
+.my-box {
+    border: 1px solid;
+    padding: 20px;
+    margin: 7cm;
+
+}
+
+img {
+    object-fit: cover;
+}
