@@ -1,0 +1,36 @@
+.centered {
+    text-align: center;
+}
+
+html {
+    font-size: 10px;
+}
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+.big-letter {
+    font-size: 37px;
+    padding-top: 55px;
+    padding-bottom: 15px;
+}
+
+.small-letter {
+    padding-bottom: 50px;
+}
+
+.my-box {
+    border: 1px solid;
+    padding: 20px;
+    margin: 7cm;
+
+}
+
+.card {
+    width: 100%;
+}
+
+.blockquote {
+
+}
